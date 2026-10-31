@@ -1,0 +1,6 @@
+aircraft:
+  - registration: F-WXLD
+    icao_hex: null
+    model: A350F
+    status: candidate
+    verified_by: null
