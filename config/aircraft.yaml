@@ -1,6 +1,7 @@
 aircraft:
   - registration: F-WXLD
-    icao_hex: null
+    icao_hex: "39a53b"
+    msn: 700
     model: A350F
-    status: candidate
-    verified_by: null
+    operator: Airbus
+    enabled: true

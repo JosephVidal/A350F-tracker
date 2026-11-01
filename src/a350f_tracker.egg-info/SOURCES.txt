@@ -17,3 +17,5 @@ src/a350f_tracker/publishing/templates.py
 src/a350f_tracker/publishing/twitter_client.py
 src/a350f_tracker/storage/database.py
 src/a350f_tracker/storage/repository.py
+tests/test_models.py
+tests/test_service.py

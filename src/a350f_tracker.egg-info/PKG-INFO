@@ -5,6 +5,8 @@ Requires-Python: >=3.12
 Requires-Dist: httpx
 Requires-Dist: pydantic
 Requires-Dist: PyYAML
+Requires-Dist: python-dotenv
+Requires-Dist: PyYAML>=6.0
 Provides-Extra: dev
 Requires-Dist: pytest; extra == "dev"
 Requires-Dist: pytest-asyncio; extra == "dev"
